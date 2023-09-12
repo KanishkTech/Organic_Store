@@ -248,6 +248,9 @@
   justify-content: center;
   /* border: 2px solid red; */
 }
+.mid-leaf{
+  transform: translateY(50%);
+}
 .info-Fresh{
   width: 390px;
   height: 390px;
@@ -386,7 +389,7 @@
   height:100%; 
   width: 390px;
   border-radius: 10px;
-  background-image: url(https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2019/06/sydney-rae-668606-unsplash.jpg);
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url(https://websitedemos.net/organic-shop-02/wp-content/uploads/sites/465/2019/06/sydney-rae-668606-unsplash.jpg);
   background-size: cover;
   background-position: center;
 }
