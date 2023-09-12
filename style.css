@@ -322,6 +322,9 @@
   color: #F8F6F3;
   border: none;
 }
+.noti-btn:hover{
+  background: #8bc34a;
+}
 .noti{
   display: flex;
   align-items: center;
